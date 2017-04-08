@@ -4,7 +4,28 @@ a project of echart webpack es6 axios vue-router
 
 
 
+Build Setup
 
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
 
 
 ##这个项目是有一个echart3项目展示页面部分扩展来的，当初写得时候没怎么学vue但大概知道这里用json数据传值到表格和图形展示中更好。
