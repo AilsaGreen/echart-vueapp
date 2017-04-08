@@ -1,0 +1,366 @@
+[
+  {
+    "id":1,
+    "tlist":["月份","总接待量","省内游客","省外游客","国外游客"],
+    "name": "全市",
+    "datas": [
+      {
+        "mouthes": "1月",
+        "totals": 33.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "2月",
+        "totals": 22.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "3月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "4月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "5月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "6月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "7月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "8月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "9月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "10月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "11月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "12月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "tlist":["月份","总接待量","省内游客","省外游客","国外游客"],
+    "name": "五通桥区",
+    "datas": [
+      {
+        "mouthes": "1月",
+        "totals": 326.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "2月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "3月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "4月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "5月",
+        "totals": 40,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "6月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "7月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "8月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "9月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "10月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "11月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "12月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "tlist":["月份","总接待量","省内游客","省外游客","国外游客"],
+    "name": "沙湾区",
+    "datas": [
+      {
+        "mouthes": "1月",
+        "totals": 335,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "2月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "3月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "4月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "5月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "6月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "7月",
+        "totals": 20,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "8月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "9月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "10月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "11月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "12月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      }
+    ]
+  },
+  {
+    "id":4,
+    "tlist":["月份","总接待量","省内游客","省外游客","国外游客"],
+    "name": "峨眉区",
+    "datas": [
+      {
+        "mouthes": "1月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "2月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "3月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "4月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "5月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "6月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "7月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "8月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "9月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "10月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "11月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "12月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      }
+    ]
+  }
+]

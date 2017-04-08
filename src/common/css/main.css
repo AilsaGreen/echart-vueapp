@@ -1,0 +1,298 @@
+.cored{color:#f06292}
+.coblue{color:#4fc3f7}
+.cogreen{color:#81c784}
+.bgred{background: #f06292}
+.bgblue{background: #4fc3f7}
+.bggreen{background: #81c784}
+.bglightblue{background:#e8f7fe;}
+.co448{color:#448aff}
+.coff4{color:#ff4081}
+.marginl100{
+    margin-left:1rem;
+}
+.marginb100{
+    margin-bottom:1rem;
+}
+/*//登陆*/
+
+.login_con{
+    position:fixed;
+    height:100%;
+    width:100%;
+    background: url("../images/u1.jpg") no-repeat;
+    background-size: 100% 100%;
+    z-index: -10;
+}
+
+.product_logo{
+    display:block;
+    width:2.4rem;
+    height:2.4rem;
+    margin:20% auto 0 ;
+}
+
+.login_tip{
+    text-align: center;
+    color:#fff;
+    font-size:.4rem;
+    padding:.4rem 0;
+}
+.login_form{
+    width:70%;
+    margin:16% auto 0;
+    color:#fff;
+}
+.input_item{
+    height:34px;
+    padding:8px .3rem;
+    background: rgba(255,255,255,0.5);
+    font-size:.28rem;
+    margin-top:10px;
+    box-sizing: border-box;
+    border:1px solid #fff;
+}
+.input_item input{
+    background: transparent;
+    font-size:.28rem;
+    vertical-align: top;
+}
+.input_item input::-webkit-input-placeholder{
+    color:#fff;
+}
+.login{
+    display:block;
+    margin:5% auto 0;
+    width:60%;
+    height:.6rem;
+    line-height: .6rem;
+    color:#fff;
+    text-align: center;
+    font-size:14px;
+    background:#18a1e3 ;
+    border:1px solid #33ccff;
+}
+.login_foot{
+    position:absolute;
+    text-align: center;
+    bottom:2%;
+    left:50%;
+    margin-left:-1.8rem;
+}
+.login_upertext{
+    font-size:.6rem;
+    font-weight: bolder;
+    color:#fff;
+}
+.login_echart{
+    width:.7rem;
+    height:.7rem;
+}
+.commal{
+    position:absolute;
+    bottom:0;
+    left:0;
+    height:7rem;
+    width:100%;
+    background: url(../images/u3.png) no-repeat;
+    background-size: 100%;
+    z-index:-1;
+}
+/*//实时数据*/
+.at_container{
+    margin-bottom:100px;
+}
+.at_title{
+    border-left:.1rem solid #03a9f4;
+    width:100%;
+    box-sizing: border-box;
+    background: #f5f5f5;
+    padding:6px 0 6px 6px;
+}
+.at_title span{
+    overflow: hidden;
+    display:inline-block;
+    vertical-align: top;
+}
+.at_h{
+    width:27.8%;
+    text-align: left;
+}
+.at_area{
+    width:33.2%;
+    text-align: right;
+}
+.currenttime{
+    width:39%;
+    text-align: center;
+}
+.at_table{
+    width:100%;
+}
+
+.at_table th,tr{
+    width:25%;
+    text-align: center;
+
+}
+.at_table th{
+    font-weight: 400;
+    font-size:12px;
+}
+.at_table td,th{
+    height:.6rem;
+    line-height: .6rem;
+    border-bottom:1px solid #eeeeee;
+}
+.at_table td{
+    color:#868686;
+}
+.arrow_up{
+    width:8px;
+    height:13px;
+    margin-top:6.5px;
+    padding-right:2px;
+}
+.arrow_up{
+    background: url(../images/arrow_up.png) no-repeat 10px center;
+    background-size: 8px 13px;
+}
+.arrow_down{
+    background: url(../images/arrow_down.png) no-repeat 10px center;
+    background-size: 8px 13px;
+}
+/*//底部的导航栏*/
+.footer{
+    padding:6px 0;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    left:0;
+    background: #f5f5f5;
+    border-top:1px solid #4fc3f7;
+}
+.tabBar{
+    font-size:0;
+}
+.tabBar_item{
+    width:25%;
+    text-align: center;
+    display:inline-block;
+    vertical-align: top;
+    font-size:14px;
+    color:#868686;
+}
+.tabBar_item_img{
+    width:26px;
+    height:24px;
+    margin-bottom:2px;
+}
+.itemactive a{
+     color:#03a9f4;
+ }
+/*//报表*/
+.rf_table th,tr{
+    width:20%;
+}
+.rf_table th{
+    border-right:1px solid #eeeeee;
+}
+.rf_table th:nth-last-child{
+    border-right:none;
+}
+.rf_table td:nth-last-child{
+    border-right:none;
+}
+.rf_table td{
+    padding:6px 0;
+    border-right:1px solid #eeeeee;
+}
+.rf_table td:nth-child(2){
+    color:#03a9f4;
+}
+/*//首页*/
+.in_table tr,.in_table th{
+    width:23%;
+}
+.in_table tr:nth-child(3),.in_table th:nth-child(3){
+    width:31%;
+}
+
+.area_formdata th{
+    border:none;
+    background: #f5f5f5;
+}
+.area_top{
+    background: #000;
+    height:1rem;
+    color:#fff;
+    font-size:.36rem;
+
+}
+.area_title{
+    height:1rem;
+    line-height: 1rem;
+    text-align: center;
+
+}
+.go_back{
+    display: block;
+    width:1rem;
+    height:1rem;
+    background: url("../images/arrow.png") no-repeat center;background-size: 40%;
+}
+
+.gresslist{
+    width:100%;
+    font-size:0;
+}
+.workpress_title{
+    background: #f5f5f5;
+    padding:.1rem;
+    text-align: center;
+
+}
+.gresslist li{
+    margin:6px 0;
+    font-size:.26rem;
+    display:inline-block;
+    vertical-align: top;
+    width:33.3%;
+    border-right:1px solid #aeaeae;
+    text-align: center;
+    box-sizing: border-box;
+}
+.gresslist li:last-child(3){
+    border-right:none;
+}
+.in_table th{background: #f5f5f5;}
+.index_list{background: rgba(0,0,0,.3);color:#fff;padding:4px 0;}
+.index_list li{
+    text-align: center;
+    width:33.3%;
+    float:left;
+    box-sizing: border-box;
+    padding:.1rem 0;
+    border-right:1px solid #fff;
+}
+.index_list li a{color:#fff;}
+.index_list li:last-child{border-right:none;}
+.index_person{padding:.4rem .3rem;}
+.area_torist{font-weight: bold;padding-bottom:.1rem;}
+.in_person{text-align:center;width:60px;height:60px;border-radius: 50%;background: #fff;}
+.man{box-shadow: 0px 0px 1px 1px #f2f3f4;}
+.women{box-shadow: 0px 0px 1px 1px #f4f5f5;}
+.index_person p{font-size:14px;}
+.in_person img{width:17px;height:29px;margin-top:6px;}
+.big_press{margin-top:10px;}
+.index_banner{background:url("../images/t_banner.png") no-repeat;background-size: cover;}
+/*管理页面*/
+.center_top{width:100%;height:5rem;background: url("../images/maniger_banner.jpg") no-repeat;background-size: cover;}
+.center_img{width:5rem;height:3rem;margin:0 auto;padding-top:.6rem;text-align: center;}
+.my_img{width:2rem;height:2rem;border:2px solid lightblue;border-radius: 50%;box-sizing: border-box;}
+.my_text{color:#fff;}
+.bgc{background: #eeeeee;}
+.ma_list li{background: #fff;padding:0 .3rem;height:.8rem;line-height: .8rem;}
+.iconimg{width:0.5rem;height:.5rem;margin-top:.15rem;margin-right:.2rem;}
+.bg_arrow{background: url("../images/ico_info_arr_r.png") no-repeat right center;background-size:.21rem .33rem; }
+
+

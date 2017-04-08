@@ -1,0 +1,13 @@
+[
+  {"num":"01","place":"成都","visitornum":389.99,"percenge":"17.5%"},
+  {"num":"02","place":"宜宾市","visitornum":289.99,"percenge":"13%"},
+  {"num":"03","place":"眉山市","visitornum":279.99,"percenge":"12.6%"},
+  {"num":"04","place":"自贡市","visitornum":269.99,"percenge":"12%"},
+  {"num":"05","place":"攀枝花市","visitornum":229.99,"percenge":"10.3%"},
+  {"num":"06","place":"泸州市","visitornum":189.99,"percenge":"8.52%"},
+  {"num":"07","place":"德阳市","visitornum":179.99,"percenge":"8.07%"},
+  {"num":"08","place":"广元市","visitornum":169.99,"percenge":"7.62%"},
+  {"num":"09","place":"遂宁市","visitornum":129.99,"percenge":"5.83%"},
+  {"num":"10","place":"内江市","visitornum":99.99,"percenge":"4.48%"}
+]
+

@@ -1,0 +1,374 @@
+[
+    {"id":1,
+    "name": "全市",
+    "datas": [
+      {
+        "mouthes": "1月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "2月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "3月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "4月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "5月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "6月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "7月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "8月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "9月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "10月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "11月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "12月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "name": "五通桥区",
+    "datas": [
+      {
+        "mouthes": "1月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "2月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "3月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "4月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "5月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "6月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "7月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "8月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "9月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "10月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "11月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "12月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "name": "沙湾区",
+    "datas": [
+      {
+        "mouthes": "1月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "2月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "3月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "4月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "5月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "6月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "7月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "8月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "9月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "10月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "11月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "12月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      }
+    ]
+  },
+ {
+    "id":4,
+    "name": "峨眉区",
+    "datas": [
+      {
+        "mouthes": "1月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "2月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "3月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "4月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "5月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "6月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "7月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "8月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "9月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "10月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "11月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      },
+      {
+        "mouthes": "12月",
+        "totals": 97.5,
+        "inprivince": "23.2(24%)",
+        "incountry": "66.6(68%)",
+        "outer": "7.7(8%)"
+      }
+    ]
+  }
+]
+
+
+/*[97.5,125, 115, 78.9, 169, 132, 133,159,123,23,0,0],
+[60,120, 90, 70, 100, 120, 133,110,100,60,20,10],
+[70,100, 110, 120, 169, 132, 133,159,123,23,0,0],
+[80,125, 115, 78.9, 169, 100,159,20,10,23,5,100],
+[100,125, 100, 132.9, 169, 132, 133,159,70,23,60,20],
+[110,125, 115, 78.9, 169, 132, 159,159,123,23,0,0],
+[120,125, 100, 132.9, 169, 132, 133,159,70,23,0,0],
+[50,100,60,20,10, 132, 70,159,123,23,0,0],
+[40,125, 115, 90, 169, 132, 133,159,123,23,0,0],
+[100,20, 100, 132.9, 169, 132, 159,159,70,23,0,0],
+[30,125, 115, 78.9, 169, 132, 133,159,123,23,0,0]*/
