@@ -16,5 +16,5 @@ export default[
   {path:"/formheader",component:formheader},
   {path:"/manager",component:manager},
    {path:"/",redirect:'/home'},
-   {path:"*",redirect:'/home'},
+   {path:"*",redirect:'/home'}
 ]
