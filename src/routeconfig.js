@@ -14,5 +14,7 @@ export default[
   {path:"/actions",component:actions},
   {path:"/forms/:id",component:forms},
   {path:"/formheader",component:formheader},
-  {path:"/manager",component:manager}
+  {path:"/manager",component:manager},
+   {path:"/",redirect:'/home'},
+   {path:"*",redirect:'/home'},
 ]
